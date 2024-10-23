@@ -1,2 +1,2 @@
-from dummy import helperFunctions
+from .helperFunctions import tokenCount
 file_path = '/content/corpus.txt'
