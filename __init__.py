@@ -1,2 +1,2 @@
 from .helperFunctions import tokenCount
-path = 'dummy/corpus.txt'
+file_path = 'dummy/corpus.txt'
