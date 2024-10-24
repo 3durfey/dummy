@@ -1,5 +1,5 @@
 def report_count(token):
-    from .helperFunctions import tokenCount
+    #from .helperFunctions import tokenCount
     count = 0
     with open('dummy/corpus.txt', 'r') as file:
         paragraph = file.read()
