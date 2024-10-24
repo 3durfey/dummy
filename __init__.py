@@ -1,2 +1,2 @@
-from .helperFunctions import tokenCount
+import dummy
 p = 'ducorpus.txt'
