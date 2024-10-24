@@ -1,6 +1,6 @@
 def report_count(token):
     from .helperFunctions import tokenCount
-    import .dummy
+    import dummy
     count = 0
     with open(dummy.file_path, 'r') as file:
         paragraph = file.read()
