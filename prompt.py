@@ -9,7 +9,7 @@ def report_count(token):
 """
 def report_count(token):
     count = 0
-    with open('corpus.txt', 'r') as file:
+    with open('dummy/corpus.txt', 'r') as file:
         paragraph = file.read()
 
         inputArray = paragraph.split()
