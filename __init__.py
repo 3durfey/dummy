@@ -1,2 +1,2 @@
 import dummy
-p = 'ducorpus.txt'
+path = 'dummy/corpus.txt'
